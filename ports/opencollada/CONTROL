@@ -1,0 +1,8 @@
+Source: opencollada
+Version: 1.6.68-1 
+Description: A stream based reader and writer library for COLLADA files. 
+Build-Depends: pcre
+
+Feature: xml2
+Description: use libxml2 support for OpenCOLLADA
+Build-Depends: libxml2
